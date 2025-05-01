@@ -18,4 +18,6 @@ Key Metrics Visulialized:
 * Visualization Tools: Power BI (Bar charts, Column chart ,Matrix chart, slicers).
 * DAX Calculations: Aggregated YTD, QTD metrics for trend analysis.
   
-  https://github.com/Sarohaa199/PostgreSQL-Projects/tree/main/1_Ecommerce_Project
+  https:https://github.com/Priya21034/Amazon-Dashboard/edit/main/README.md
+
+  -<a href = ""> View Dashboard </a>
