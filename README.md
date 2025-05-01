@@ -17,7 +17,11 @@ Key Metrics Visulialized:
 * Data Source: Amazon sales dataset (structured for analysis).
 * Visualization Tools: Power BI (Bar charts, Column chart ,Matrix chart, slicers).
 * DAX Calculations: Aggregated YTD, QTD metrics for trend analysis.
-  
-  https:https://github.com/Priya21034/Amazon-Dashboard/edit/main/README.md
 
-  -<a href = ""> View Dashboard </a>
+  -<a href = "https://github.com/Priya21034/Amazon-Dashboard/blob/main/README.md"> View Dashboard </a>
+
+![Image 1](https://github.com/user-attachments/assets/537d1a72-8a21-49bd-b42b-4eaea8d5356d)
+
+![Imgae 2](https://github.com/user-attachments/assets/2640ad2a-aa95-43fe-bfd9-10bee3d7b1a0)
+
+![Image 3](https://github.com/user-attachments/assets/cc61e09e-2207-45cd-8ab5-2bcf8b73c430)
