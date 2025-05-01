@@ -20,7 +20,8 @@ Key Metrics Visulialized:
 
   -<a href = "https://github.com/Priya21034/Amazon-Dashboard/blob/main/README.md"> View Dashboard </a>
 
-![Image 1](https://github.com/user-attachments/assets/537d1a72-8a21-49bd-b42b-4eaea8d5356d)
+
+![Image 1](https://github.com/user-attachments/assets/6d2948de-9a0f-4abf-a102-35f0252fb57b)
 
 ![Imgae 2](https://github.com/user-attachments/assets/2640ad2a-aa95-43fe-bfd9-10bee3d7b1a0)
 
