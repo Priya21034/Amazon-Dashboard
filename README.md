@@ -1,5 +1,7 @@
 # Project Name: Amazon Sales Dashboard
 
+This Power BI dashboard provides an interactive visualization of Amazon sales data, offering insights into revenue trends, product performance, and customer engagement. The dashboard is designed for sales strategy and inventory management.
+
 Key Metrics Visulialized:
 
 * YTD Sales – Total revenue generated from the start of the year.
