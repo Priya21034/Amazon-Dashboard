@@ -17,3 +17,5 @@ Key Metrics Visulialized:
 * Data Source: Amazon sales dataset (structured for analysis).
 * Visualization Tools: Power BI (Bar charts, Column chart ,Matrix chart, slicers).
 * DAX Calculations: Aggregated YTD, QTD metrics for trend analysis.
+  
+  https://github.com/Sarohaa199/PostgreSQL-Projects/tree/main/1_Ecommerce_Project
